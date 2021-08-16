@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://seok-ch.github.io/fire_talk/static/css/main.d173454e.chunk.css",
-    "main.js": "https://seok-ch.github.io/fire_talk/static/js/main.c52cf42a.chunk.js",
-    "main.js.map": "https://seok-ch.github.io/fire_talk/static/js/main.c52cf42a.chunk.js.map",
+    "main.js": "https://seok-ch.github.io/fire_talk/static/js/main.334662fe.chunk.js",
+    "main.js.map": "https://seok-ch.github.io/fire_talk/static/js/main.334662fe.chunk.js.map",
     "runtime-main.js": "https://seok-ch.github.io/fire_talk/static/js/runtime-main.91630f8f.js",
     "runtime-main.js.map": "https://seok-ch.github.io/fire_talk/static/js/runtime-main.91630f8f.js.map",
     "static/js/2.adc9c1ab.chunk.js": "https://seok-ch.github.io/fire_talk/static/js/2.adc9c1ab.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.91630f8f.js",
     "static/js/2.adc9c1ab.chunk.js",
     "static/css/main.d173454e.chunk.css",
-    "static/js/main.c52cf42a.chunk.js"
+    "static/js/main.334662fe.chunk.js"
   ]
 }
